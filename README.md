@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I provide a unique combination of bespoke software development and enterprise consulting for your end-to-end business processes. 
+Software development since 2006 and with more than 10+ different industry experiences, I develop software that will provide appropriate flexibility in your company's business processes.
+
+
 <!--
 **mcyenikoylu/mcyenikoylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
