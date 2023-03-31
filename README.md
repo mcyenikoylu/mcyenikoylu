@@ -45,7 +45,7 @@ The principles I apply:
 ● TDD / BDD
 ● Scrum / Agile / Kanban
 
-♥ Development Tool and Skills:
+Development Tool and Skills:
 API Integration | UWP | WPF | WinForm | XAML | T-SQL | DevExpress | HTML | XML | JavaScript | Node.JS | JSON | Linq to SQL | Microsoft SQL Server | MSLocalDB | SQLite | PostgreSQL | MySQL | TFS | SVN | GitHub | Azure DevOps | AWS | Google API | SQL Stored Procedure | SQL Function | SQL Query | Chart Report | SAP S/4Hana | Windows Form | MSSQL | WordPress Plugin | Asana | Trello | Win32 | PocketPC | WinCE | Weighbridge | Scales App | Visual Studio | Barcode App | SQL Management Studio | Azure Data Studio | Visual Studio | VS Code | CRM Development | WMS Development | MRP Development | B2B Development | Software Development | ERP Development | Windows Services | Cross Platform | Backend Development | Automation | DevExtream | DynamicPDF | ExaVault | Google Maps | Google Drive | Twilio | BitBucket | nHibernate | EntitySpaces | Kubernetes | PowerBI | JasperReport | Crystal Reports | .Net RDLC Reports | SSRS | SignalR | OAuth | Elastic Search | TypeScript | Zebra Barcode Devices
 
 
