@@ -4,46 +4,38 @@
 
 In his career, he worked in the IT departments of companies in different sectors and in software offices with multiple developers. In addition to end-to-end software development, he also undertook the development of existing software.
 
-Countries where I gained international experience:
-● United States 🇺🇸
-● Australia 🇦🇺
-● Canada 🇨🇦
-● United Kingdom 🇬🇧
-● Chile 🇨🇱
-● China 🇭🇰
-● México 🇲🇽
-● Netherlands 🇳🇱
-
-★ DevOps Engineer
-★ SaaS Development
-★ Mobile Development
-★ Web Development
-★ Database Development
-★ Back-End Web API Development
-★ Windows Desktop Application Development
+Countries where I gained international experience:<br/>
+- United States 🇺🇸
+- Australia 🇦🇺
+- Canada 🇨🇦
+- United Kingdom 🇬🇧
+- Chile 🇨🇱
+- China 🇭🇰
+- México 🇲🇽
+- Netherlands 🇳🇱
 
 Technologies I frequently use:
-● ASP .NET Core / Entity Framework
-● C# / LINQ / T-SQL / RESTful API / Node JS
-● Microsoft SQL / SQLite / PostgreSQL / MS Access / MS LocalDB
-● Azure / AWS / Heroku
-● Docker / Postman / Jira / GitHub
-● DevExpress / Telerik / Syncfusion
-● Git / TFS
+- ASP .NET Core / Entity Framework
+- C# / LINQ / T-SQL / RESTful API / Node JS
+- Microsoft SQL / SQLite / PostgreSQL / MS Access / MS LocalDB
+- Azure / AWS / Heroku
+- Docker / Postman / Jira / GitHub
+- DevExpress / Telerik / Syncfusion
+- Git / TFS
 
 The leading sectors in which I have gained great experience:
-● Real Estate
-● Finance / Banking
-● Agriculture / Farming
-● Logistics / Transportation
-● Industry / Production Facility / Factory
-● Information Technologies
-● Telecommunication
+- Real Estate
+- Finance / Banking
+- Agriculture / Farming
+- Logistics / Transportation
+- Industry / Production Facility / Factory
+- Information Technologies
+- Telecommunication
 
 The principles I apply:
-● SOLID / OOP
-● TDD / BDD
-● Scrum / Agile / Kanban
+- SOLID / OOP 
+- TDD / BDD
+- Scrum / Agile / Kanban
 
 Development Tool and Skills:
 API Integration | UWP | WPF | WinForm | XAML | T-SQL | DevExpress | HTML | XML | JavaScript | Node.JS | JSON | Linq to SQL | Microsoft SQL Server | MSLocalDB | SQLite | PostgreSQL | MySQL | TFS | SVN | GitHub | Azure DevOps | AWS | Google API | SQL Stored Procedure | SQL Function | SQL Query | Chart Report | SAP S/4Hana | Windows Form | MSSQL | WordPress Plugin | Asana | Trello | Win32 | PocketPC | WinCE | Weighbridge | Scales App | Visual Studio | Barcode App | SQL Management Studio | Azure Data Studio | Visual Studio | VS Code | CRM Development | WMS Development | MRP Development | B2B Development | Software Development | ERP Development | Windows Services | Cross Platform | Backend Development | Automation | DevExtream | DynamicPDF | ExaVault | Google Maps | Google Drive | Twilio | BitBucket | nHibernate | EntitySpaces | Kubernetes | PowerBI | JasperReport | Crystal Reports | .Net RDLC Reports | SSRS | SignalR | OAuth | Elastic Search | TypeScript | Zebra Barcode Devices
