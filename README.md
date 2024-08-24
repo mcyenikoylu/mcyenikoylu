@@ -1,5 +1,5 @@
 ### Hi there 👋
-> My clients' project repos are private. I made the source codes of my projects 5 years ago public so that you can understand the technologies I use and the scale of the projects I have done in the past.
+> My clients' project repos are private.
 
 🇺🇸 US Contractor ★ In the last five years, he has developed end-to-end custom software and databases for 3 to 12 months contracts with 10+ companies for bespoke business processes in the fields of logistics, agriculture, industry, and finance.
 
